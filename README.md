@@ -1,6 +1,6 @@
 # Gamebar Uninstaller
 
-If you have a decent PC but gaming performance is unexpectedly unstable, experiencing unpredictable frame drops and stutters, you are probably a victim of the Xbox Gamebar, particularly the GameBarPresenceWriter.
+If you have a decent PC but gaming performance is unexpectedly low, experiencing unpredictable frame drops and stutters, you are probably a victim of the Xbox Gamebar, particularly the GameBarPresenceWriter.
 
 This script helps you to remove xbox gamebar in your Windows system, so as to:
 - prevent the gamebar presence writer (`GameBarPresenceWriter.exe`) from starting ([this problem](https://answers.microsoft.com/en-us/windows/forum/all/gamebar-presence-writerexe-gamingservices-why-cant/bb38539e-9228-42b0-8b7c-0bd044e92ca8)), which causes serious frame drops for some games.
